@@ -1,19 +1,11 @@
-% Lab Project
-%
-% Student Group: Samantha Letscher, Kevin Wilde
-% Image ID: 326, 383
-% Section:  20
-% Date:     11/10/2014
+% Kevin Wilde
 
-% **************************
-% LAB PROJECT - INTRODUCTION
-% **************************
 %% Initialization
 clear; close all; clc
 
 imagePath = ['.', filesep(), 'Student_Images', filesep()];
 
-studentNumber = 326; % You should use your personal ID after you
+studentNumber = 383; % You should use your personal ID after you
                     % identify your image in the Student_Images folder
 
 studentImage = [imagePath, 'student', num2str(studentNumber), '.png'];
